@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/NotePad.iml" filepath="$PROJECT_DIR$/.idea/NotePad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notepad/notepad.iml" filepath="$PROJECT_DIR$/notepad/notepad.iml" />
     </modules>
   </component>
 </project>
