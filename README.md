@@ -9,8 +9,6 @@ Notepad is a text-based desktop application that allows users to create, view, u
 
 **View Notes**: Display all saved notes with details.
 
-**Update Notes**: Modify content of existing notes.
-
 **Delete Notes**: Remove notes based on the title.
 
 **Persistent Storage**: Notes are stored in a file using FileReader/FileWriter for future access.
@@ -20,8 +18,6 @@ Notepad is a text-based desktop application that allows users to create, view, u
 ## Technologies Used:
 
 - Java 8
-
-- Collections (ArrayList)
 
 - File I/O (FileReader, FileWriter)
 
